@@ -127,5 +127,5 @@ Handles:
 ---
 
 ## 📬 Contact
-- email: kostasroulias92@gmail.com
 - linkedin: https://www.linkedin.com/in/konstantinosroulias/
+- GitHub: https://github.com/KostasRoulias
